@@ -1,0 +1,2 @@
+# rustart
+rust genart stuffses
